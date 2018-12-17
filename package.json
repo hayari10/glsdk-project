@@ -18,5 +18,8 @@
   "license": "MIT",
   "devDependencies": {
     "@mean-expert/fireloop": "^1.0.0-beta.2.7"
+  },
+  "dependencies": {
+    "node-sass": "^4.10.0"
   }
 }
